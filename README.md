@@ -5,6 +5,7 @@
 -   I worked mostly in web development and design (both front end and back end). 
 -   I worked in data analysis for one of my co-ops and also worked with AWS servers maintenance and upgrades. 
 -   My last co-op on was with University of Waterloo Senate as a Web Designer and communication expert.
+-   Currently working as full time software engineer at Archetype
 
 - 👀 I’m interested in full stack development, AI and machine learning
 - 🌱 I’m currently learning AWS, React and TypeScript

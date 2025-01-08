@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in full stack development, AI and machine learning
 - 🌱 I’m currently learning GCP 
-- 📫 How to reach me by emailing me at anurag.vinodh@gmail.com
+- 📫 How to reach me by emailing me at jobs.anurag.vinodh@gmail.com
 
 <!---
 AnuragVinodh/AnuragVinodh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

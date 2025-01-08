@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnuragVinodh
 
 - 👀 I’m interested in full stack development, AI and machine learning
-- 🌱 I’m currently learning AWS, React and TypeScript
+- 🌱 I’m currently learning GCP 
 - 📫 How to reach me by emailing me at anurag.vinodh@gmail.com
 
 <!---
